@@ -6,4 +6,6 @@ The goal of this challenge was to refactor code to run about 12 times faster tha
 
 The goal of this code is to identify which stocks were winners at the close of 2018 and which ones weren't, making it easier for Steve to make better recommendations to his parents.
 
-Note: I am confident that a good portion of this code is written correctly but I think the ticker indexing and type match debug error are throwing it off, making it impossible to populate any numbers.   This week's challenge was for me personally very tough and although my code does not work as it's supposed to per the assignment instructions, I am happy to have learned about VBA this week and how I can apply it to my recruiting occupation.
+It appears that ENPH and RUN were the top performers at the end of the year and that the rest had varying degrees of negative return.
+
+
